@@ -12,7 +12,7 @@
       @yield('content')
     </div>
     <footer id="footer" class="text-center">
-      <p>Copyright &Copy; 2019 TodoList</p>
+      <p>Copyright 2019 &copy; TodoList</p>
     </footer>
   </body>
 </html>

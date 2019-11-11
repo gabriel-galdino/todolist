@@ -8264,3 +8264,10 @@ button.close {
   }
 }
 
+#footer {
+  margin-top: 30px;
+  padding: 20px;
+  color: #fff;
+  background-color: #333;
+}
+
